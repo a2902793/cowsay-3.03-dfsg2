@@ -7,6 +7,7 @@ Homepage: https://web.archive.org/web/20120527202447/http://www.nog.net/~tony/wa
 Standards-Version: 4.5.0
 Vcs-git: https://salsa.debian.org/debian/cowsay.git
 Vcs-Browser: https://salsa.debian.org/debian/cowsay
+Rules-requires-root: no
 
 Package: cowsay
 Architecture: all
