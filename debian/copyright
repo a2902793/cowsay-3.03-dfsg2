@@ -19,6 +19,16 @@ Files: *
 Copyright: 1999-2000 Tony Monroe
 License: COWSAY
 
+Files: debian/*
+Copyright: 2019-2020 James McDonald <james@jamesmcdonald.com>
+           2010-2018 Francois Marier <francois@debian.org>
+           2015-2017 Tony Maillefaud <maltouzes@gmail.com>
+           2008 Gurkan Sengun <gurkan@phys.ethz.ch>
+           2007 Franz Pletz <fpletz@franz-pletz.org>
+           2005-2006 Florian Ernst <florian@debian.org>
+           2001-2003 Michael D. Ivey <ivey@debian.org>
+License: COWSAY
+
 Files: debian/patches/apt_cow
 Copyright: 2002 Steven Barker <scbarker@uiuc.edu>
 License: GPL
@@ -110,16 +120,6 @@ License: COWSAY
 
 Files: cows/www.cow
 Copyright: 1999 lim@csua.berkeley.edu
-License: COWSAY
-
-Files: debian/*
-Copyright: 2019-2020 James McDonald <james@jamesmcdonald.com>
-           2010-2018 Francois Marier <francois@debian.org>
-           2015-2017 Tony Maillefaud <maltouzes@gmail.com>
-           2008 Gurkan Sengun <gurkan@phys.ethz.ch>
-           2007 Franz Pletz <fpletz@franz-pletz.org>
-           2005-2006 Florian Ernst <florian@debian.org>
-           2001-2003 Michael D. Ivey <ivey@debian.org>
 License: COWSAY
 
 Files: debian/cowsay_random
