@@ -2,6 +2,18 @@ Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: cowsay
 Upstream-Contact: Tony Monroe <tony@nog.net>
 Source: https://web.archive.org/web/20120527202447/http://www.nog.net/~tony/warez/cowsay.shtml
+Comment: Files from upstream which had no known license have been removed
+ The files are:
+ .
+ kitty.cow
+ meow.cow
+ satanic.cow
+ small.cow
+ sodomized.cow
+ supermilker.cow
+ surgery.cow
+ telebears.cow
+ udder.cow
 
 Files: *
 Copyright: 1999-2000 Tony Monroe
