@@ -1,3 +1,12 @@
+cowsay (3.03+dfsg2-8) unstable; urgency=low
+
+  * Fix capitalization of man page title as per man-pages(7)
+  * Bump Standards-Version to 4.5.0
+  * Bump debhelper compat to 13
+  * Clear up various lintian errors
+
+ -- James McDonald <james@jamesmcdonald.com>  Mon, 11 May 2020 08:43:49 +0200
+
 cowsay (3.03+dfsg2-7) unstable; urgency=medium
 
   * New maintainer (closes: #910035)
