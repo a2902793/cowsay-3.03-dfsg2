@@ -1,3 +1,11 @@
+cowsay (3.03+dfsg2-8ubuntu2) jammy; urgency=low
+
+  * Added testing.sh to package for take-home test from Canonical
+  * Previous version 3.03+dfsg2-8ubuntu1 exists on Launchpad as experiment,
+    bumping up version to 3.03+dfsg2-8ubuntu2
+
+ -- Li-Chung Yeng <a2902793@gmail.com>  Tue, 18 Jul 2023 18:19:13 +0000
+
 cowsay (3.03+dfsg2-8) unstable; urgency=low
 
   * Fix capitalization of man page title as per man-pages(7)
