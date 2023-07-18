@@ -1,12 +1,13 @@
 Source: cowsay
 Section: games
 Priority: optional
-Maintainer: James McDonald <james@jamesmcdonald.com>
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+XSBC-Original-Maintainer: James McDonald <james@jamesmcdonald.com>
 Build-Depends: debhelper-compat (= 13)
 Homepage: https://web.archive.org/web/20120527202447/http://www.nog.net/~tony/warez/cowsay.shtml
 Standards-Version: 4.5.0
-Vcs-git: https://salsa.debian.org/debian/cowsay.git
-Vcs-Browser: https://salsa.debian.org/debian/cowsay
+Vcs-git: https://git.launchpad.net/~a2902793/cowsay.git
+Vcs-Browser: https://git.launchpad.net/~a2902793/cowsay
 Rules-requires-root: no
 
 Package: cowsay
